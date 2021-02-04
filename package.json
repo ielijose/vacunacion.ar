@@ -1,0 +1,41 @@
+{
+  "name": "vacunacion.ar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "download-today-status": "node scripts/download-covid-vaccine-today-status.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ielijose/vacunacion.ar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ielijose/vacunacion.ar/issues"
+  },
+  "homepage": "https://github.com/ielijose/vacunacion.ar#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "fs-extra": "^9.1.0",
+    "neat-csv": "^6.0.1",
+    "next": "^10.0.6",
+    "next-seo": "^4.19.0",
+    "postcss": "^8.2.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.1.0",
+    "react-table": "^7.6.3",
+    "standard": "16.0.3",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "download": "^8.0.0",
+    "eslint-config-prettier": "^7.2.0"
+  }
+}
