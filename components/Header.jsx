@@ -12,9 +12,7 @@ export default function Header() {
           <div className="container px-6 h-16 flex justify-between items-center lg:items-stretch mx-auto">
             <div className="flex items-center">
               <div className="mr-10 flex items-center">
-                <div className="border w-12 h-12">
-                  <FaSyringe className="fill-current text-indigo-500" height={24} width={24} />
-                </div>
+                <FaSyringe className="fill-current text-indigo-500" />
                 <h3 className="text-base text-gray-800 font-bold tracking-normal leading-tight ml-3 block">
                   Vacunación.ar
                 </h3>
