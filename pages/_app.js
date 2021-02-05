@@ -1,9 +1,11 @@
 import { DefaultSeo } from 'next-seo';
 import SEO from '../config/seo';
-
+import useFathom from '../hooks/useFathom';
 import '../styles/globals.css';
 
-function MyApp({ Component, pageProps }) {
+function App({ Component, pageProps }) {
+  useFathom({ ID: 'ZHOWSCZJ', domains: ['vacunacion.ar'] });
+
   return (
     <>
       <DefaultSeo {...SEO} />
@@ -12,4 +14,4 @@ function MyApp({ Component, pageProps }) {
   );
 }
 
-export default MyApp;
+export default App;
