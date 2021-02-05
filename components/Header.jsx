@@ -6,16 +6,15 @@ import Head from 'next/head';
 export default function Header() {
   return (
     <>
-      <Head>
-        <title>Vacunación Argentina 2021</title>
-      </Head>
       <div className="bg-gray-200 h-full w-full">
         {/* Code block starts */}
         <nav className="w-full bg-white block shadow">
           <div className="container px-6 h-16 flex justify-between items-center lg:items-stretch mx-auto">
             <div className="flex items-center">
               <div className="mr-10 flex items-center">
-                <FaSyringe className="hover:text-gray-500 transition-colors" />
+                <div className="border w-12 h-12">
+                  <FaSyringe className="fill-current text-indigo-500" height={24} width={24} />
+                </div>
                 <h3 className="text-base text-gray-800 font-bold tracking-normal leading-tight ml-3 block">
                   Vacunación.ar
                 </h3>

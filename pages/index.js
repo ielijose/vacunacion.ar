@@ -5,12 +5,11 @@ import Table from '../components/Table';
 
 const Index = ({ data, info }) => {
   return (
-    <>
+    <div className="bg-gray-100">
       <Header />
-      <Stats data={data} />
-
+      <Stats data={data} info={info} />
       <Table data={data} />
-    </>
+    </div>
   );
 };
 
