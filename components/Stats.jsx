@@ -25,17 +25,22 @@ function Stats({ data, info }) {
         </div>
       </div>
 
-      <div className="flex justify-center">
-        <small className="">
-          Datos actualizados <TimeAgo timestamp={info.lastModified} />. Fuente:{' '}
+      <div className="flex flex-col items-center justify-center">
+        <div className="text-sm mb-2">
+          Datos actualizados <TimeAgo timestamp={info.lastModified} />.
+        </div>
+
+        <div className="text-sm">
+          Fuente:{' '}
           <a
             href="http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina"
             target="_blank"
+            className="text-indigo-600"
             rel="noreferrer"
           >
             Ministerio de Salud
           </a>
-        </small>
+        </div>
       </div>
     </div>
   );

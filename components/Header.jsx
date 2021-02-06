@@ -1,7 +1,6 @@
 import React from 'react';
 import { FaSyringe } from 'react-icons/fa';
 import { FiGithub } from 'react-icons/fi';
-import Head from 'next/head';
 
 export default function Header() {
   return (
