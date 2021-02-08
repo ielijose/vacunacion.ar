@@ -3,12 +3,12 @@ import Header from '../components/Header';
 import Stats from '../components/Stats';
 import Table from '../components/Table';
 
-const Index = ({ data, info }) => {
+const Index = ({ data, info, population }) => {
   return (
     <div className="bg-gray-100">
       <Header />
       <Stats data={data} info={info} />
-      <Table data={data} />
+      <Table data={data} population={population} />
     </div>
   );
 };
@@ -16,11 +16,13 @@ const Index = ({ data, info }) => {
 export async function getStaticProps() {
   const data = require('../public/data/latest.json');
   const info = require('../public/data/info.json');
+  const population = require('../public/data/population.json');
 
   return {
     props: {
       data,
       info,
+      population,
     },
   };
 }
