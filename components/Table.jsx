@@ -31,7 +31,7 @@ export default function Table({ data, population }) {
               const provincePopulation = population[row.jurisdiccion_nombre] || 0;
 
               return (
-                <tr key={row.jurisdiccion_nombre} className="h-10 border-b border-gray-300 cursor-pointer">
+                <tr key={row.jurisdiccion_nombre} className="h-10 border-b border-gray-300 ">
                   <td className="pl-4 pr-6 text-sm font-bold leading-4 tracking-normal text-gray-800 md:pl-8 whitespace-nowrap">
                     {row.jurisdiccion_nombre}
                   </td>
