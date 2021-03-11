@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.animate-link {
+  @apply transition-colors duration-300 ease-in-out;
+}

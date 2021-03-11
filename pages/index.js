@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../components/Footer';
 import Header from '../components/Header';
 import Stats from '../components/Stats';
 import Table from '../components/Table';
@@ -6,9 +7,9 @@ import Table from '../components/Table';
 const Index = ({ data, info, population }) => {
   return (
     <div className="bg-gray-100">
-      <Header />
       <Stats data={data} info={info} />
       <Table data={data} population={population} />
+      <Footer />
     </div>
   );
 };
