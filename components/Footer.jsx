@@ -18,15 +18,17 @@ const Footer = () => {
           </div>
           <div className="items-center justify-end lg:w-3/4 lg:flex">
             <ul className="flex justify-center lg:justify-end f-m-m">
-              <a
-                href="https://github.com/ielijose/vacunacion.ar"
-                target="_blank"
-                rel="noreferrer"
-                className="flex items-center mt-2 mb-2 text-lg font-semibold text-white hover:text-gray-300 animate-link lg:mb-0 lg:mt-0"
-              >
-                <FaGithub className="mr-2" />
-                GitHub
-              </a>
+              <li className="mt-2 mb-2 text-lg font-semibold text-white  hover:text-gray-300 animate-link lg:mb-0 lg:mt-0">
+                <a
+                  href="https://github.com/ielijose/vacunacion.ar"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="flex items-center"
+                >
+                  <FaGithub className="mr-2" />
+                  GitHub
+                </a>
+              </li>
             </ul>
           </div>
         </div>
