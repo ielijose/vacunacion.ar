@@ -4,7 +4,7 @@ import useFathom from '../hooks/useFathom';
 import '../styles/globals.css';
 
 function App({ Component, pageProps }) {
-  useFathom({ ID: 'WKHNLIFQ', domains: ['vacunacion.ar'] });
+  useFathom({ ID: 'EHRRPSLL', domains: ['vacunacion.ar'] });
 
   return (
     <>
