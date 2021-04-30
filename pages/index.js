@@ -7,7 +7,7 @@ import Table from '../components/Table';
 const Index = ({ data, info, population }) => {
   return (
     <div className="bg-gray-100">
-      <Stats data={data} info={info} />
+      <Stats data={data} info={info} population={population} />
       <Table data={data} population={population} />
       <Footer />
     </div>
