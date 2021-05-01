@@ -30,8 +30,6 @@ download(CSV_URL, 'public/zip', { filename })
 
     const groupedJson = group(json);
 
-    console.log(JSON.stringify(groupedJson, null, 2));
-
     await fs.writeJson(`./public/data/${filenameJson}`, groupedJson);
     await fs.copyFile(`./public/data/${filenameJson}`, './public/data/latest.json');
     await fs.writeJson('./public/data/info.json', { lastModified: +new Date() });
