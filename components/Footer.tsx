@@ -1,8 +1,17 @@
 import React from 'react';
 import { FaGithub } from 'react-icons/fa';
+
 import Link from 'next/link';
 
+import { trackEvent } from '../lib/ga';
+
 const Footer = () => {
+  const gihubClick = () => {
+    trackEvent({
+      action: 'githubClick',
+    });
+  };
+
   return (
     <div className="w-full px-4 bg-blue-700 xl:pt-4">
       <div className="container py-4 mx-auto lg:pb-10 lg:pt-8">
@@ -18,12 +27,13 @@ const Footer = () => {
           </div>
           <div className="items-center justify-end lg:w-3/4 lg:flex">
             <ul className="flex justify-center lg:justify-end f-m-m">
-              <li className="mt-2 mb-2 text-lg font-semibold text-white  hover:text-gray-300 animate-link lg:mb-0 lg:mt-0">
+              <li className="mt-2 mb-2 text-lg font-semibold text-white hover:text-gray-300 animate-link lg:mb-0 lg:mt-0">
                 <a
                   href="https://github.com/ielijose/vacunacion.ar"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center"
+                  onClick={gihubClick}
                 >
                   <FaGithub className="mr-2" />
                   GitHub

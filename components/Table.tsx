@@ -1,4 +1,5 @@
 import React from 'react';
+
 import { formatNumber } from '../utils/numbers';
 
 export default function Table({ data, population }) {

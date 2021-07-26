@@ -1,4 +1,6 @@
 import React from 'react';
+
+import { trackEvent } from '../lib/ga';
 import { formatNumber } from '../utils/numbers';
 import TimeAgo from './TimeAgo';
 
@@ -12,6 +14,12 @@ function Stats({ data, info, population }) {
 
   const fmtFirstTotal = formatNumber(firstTotal);
   const fmtSecondTotal = formatNumber(secondTotal);
+
+  const sourceClick = () => {
+    trackEvent({
+      action: 'sourceClick',
+    });
+  };
 
   return (
     <div className="container pt-4 mx-auto">
@@ -46,6 +54,7 @@ function Stats({ data, info, population }) {
             target="_blank"
             className="text-blue-600"
             rel="noreferrer"
+            onClick={sourceClick}
           >
             Ministerio de Salud
           </a>
