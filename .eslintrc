@@ -9,8 +9,7 @@
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:@typescript-eslint/recommended",
-    "prettier/@typescript-eslint",
-    "plugin:prettier/recommended",
+    "prettier",
     "plugin:@next/next/recommended"
   ],
   "parser": "@typescript-eslint/parser",
@@ -26,7 +25,14 @@
       "version": "detect"
     }
   },
-  "plugins": ["react", "react-hooks", "@typescript-eslint", "prettier", "eslint-plugin-import-helpers", "import"],
+  "plugins": [
+    "react",
+    "react-hooks",
+    "@typescript-eslint",
+    "prettier",
+    "eslint-plugin-import-helpers",
+    "import"
+  ],
   "rules": {
     "comma-dangle": [
       "error",
@@ -64,7 +70,10 @@
     "no-console": [
       "warn",
       {
-        "allow": ["warn", "error"]
+        "allow": [
+          "warn",
+          "error"
+        ]
       }
     ],
     "import/no-duplicates": [
@@ -77,7 +86,22 @@
       "warn",
       {
         "newlinesBetween": "always",
-        "groups": [["/^react/"], ["module"], ["/^@/"], ["parent", "sibling", "index"]],
+        "groups": [
+          [
+            "/^react/"
+          ],
+          [
+            "module"
+          ],
+          [
+            "/^@/"
+          ],
+          [
+            "parent",
+            "sibling",
+            "index"
+          ]
+        ],
         "alphabetize": {
           "order": "asc",
           "ignoreCase": true
