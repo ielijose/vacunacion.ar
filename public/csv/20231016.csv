@@ -2,9 +2,9 @@
 "06","Buenos Aires","AstraZeneca ChAdOx1 S recombinante",0,3648662,4022686,832866,1121865
 "06","Buenos Aires","COVISHIELD ChAdOx1nCoV COVID 19",0,251418,383,0,0
 "06","Buenos Aires","Cansino Ad5 nCoV",90333,0,7732,1632,110491
-"06","Buenos Aires","Moderna 010 mg mL",0,51930,31196,0,179412
-"06","Buenos Aires","Moderna ARNm 020 mg mL",0,426911,1263898,3185,4550861
-"06","Buenos Aires","Moderna Bivariante BA 4 5",127,12,7,0,185898
+"06","Buenos Aires","Moderna 010 mg mL",0,51931,31196,0,179412
+"06","Buenos Aires","Moderna ARNm 020 mg mL",0,426911,1263898,3185,4550862
+"06","Buenos Aires","Moderna Bivariante BA 4 5",127,12,7,0,186029
 "06","Buenos Aires","Pfizer BioNTech Comirnaty",0,1374302,1452429,77612,5407841
 "06","Buenos Aires","Pfizer Bivariante BA 4 5",0,0,0,0,241555
 "06","Buenos Aires","Pfizer Pediátrica",0,20648,10742,141168,2063
@@ -15,8 +15,8 @@
 "02","CABA","COVISHIELD ChAdOx1nCoV COVID 19",0,65740,197,0,0
 "02","CABA","Cansino Ad5 nCoV",29925,0,1673,44,51053
 "02","CABA","Moderna 010 mg mL",0,16537,9681,0,64332
-"02","CABA","Moderna ARNm 020 mg mL",0,36686,280072,1489,2065526
-"02","CABA","Moderna Bivariante BA 4 5",88,1018,483,0,71087
+"02","CABA","Moderna ARNm 020 mg mL",0,36688,280074,1489,2065526
+"02","CABA","Moderna Bivariante BA 4 5",88,1018,483,0,71088
 "02","CABA","Pfizer BioNTech Comirnaty",0,193604,220497,62866,1286538
 "02","CABA","Pfizer Bivariante BA 4 5",0,0,2,0,223516
 "02","CABA","Pfizer Pediátrica",0,2891,2057,1678,89476
@@ -74,9 +74,9 @@
 "14","Córdoba","AstraZeneca ChAdOx1 S recombinante",0,809360,825110,183918,658778
 "14","Córdoba","COVISHIELD ChAdOx1nCoV COVID 19",0,44130,129,0,0
 "14","Córdoba","Cansino Ad5 nCoV",38411,0,5735,33,11375
-"14","Córdoba","Moderna 010 mg mL",0,8371,5049,0,59425
+"14","Córdoba","Moderna 010 mg mL",0,8373,5049,0,59425
 "14","Córdoba","Moderna ARNm 020 mg mL",0,50359,269015,37,927579
-"14","Córdoba","Moderna Bivariante BA 4 5",307,31,58,0,23442
+"14","Córdoba","Moderna Bivariante BA 4 5",307,31,58,0,23449
 "14","Córdoba","Pfizer BioNTech Comirnaty",0,284158,259057,16564,728119
 "14","Córdoba","Pfizer Bivariante BA 4 5",0,0,0,0,52426
 "14","Córdoba","Pfizer Pediátrica",0,1771,1109,179,24684
@@ -111,7 +111,7 @@
 "38","Jujuy","Cansino Ad5 nCoV",1729,0,1692,36,32610
 "38","Jujuy","Moderna 010 mg mL",0,3325,1703,0,14092
 "38","Jujuy","Moderna ARNm 020 mg mL",0,26971,43219,1542,201413
-"38","Jujuy","Moderna Bivariante BA 4 5",162,104,83,0,24862
+"38","Jujuy","Moderna Bivariante BA 4 5",164,104,83,0,24876
 "38","Jujuy","Pfizer BioNTech Comirnaty",0,58153,72315,14713,159768
 "38","Jujuy","Pfizer Bivariante BA 4 5",0,9,16,0,31254
 "38","Jujuy","Pfizer Pediátrica",0,2585,962,183,14901
@@ -173,7 +173,7 @@
 "58","Neuquén","Moderna ARNm 020 mg mL",0,14529,45840,65,146728
 "58","Neuquén","Moderna Bivariante BA 4 5",28,43,65,0,3863
 "58","Neuquén","Pfizer BioNTech Comirnaty",0,51168,47979,3309,146124
-"58","Neuquén","Pfizer Bivariante BA 4 5",0,5,14,0,19197
+"58","Neuquén","Pfizer Bivariante BA 4 5",0,5,14,0,19198
 "58","Neuquén","Pfizer Pediátrica",0,394,196,26,3967
 "58","Neuquén","Sinopharm Vacuna SARSCOV 2 inactivada",0,236742,212785,87,619
 "58","Neuquén","Sputnik Light",101,0,124,0,318
@@ -189,12 +189,12 @@
 "62","Río Negro","Pfizer Pediátrica",0,812,324,38,4456
 "62","Río Negro","Sinopharm Vacuna SARSCOV 2 inactivada",0,277933,246188,588,1973
 "62","Río Negro","Sputnik V COVID19 Instituto Gamaleya",0,177620,118014,16148,37571
-"66","Salta","AstraZeneca ChAdOx1 S recombinante",0,312117,276873,23081,25848
+"66","Salta","AstraZeneca ChAdOx1 S recombinante",0,312117,276874,23081,25849
 "66","Salta","COVISHIELD ChAdOx1nCoV COVID 19",0,18005,73,0,0
 "66","Salta","Cansino Ad5 nCoV",3925,0,258,476,8524
 "66","Salta","Moderna 010 mg mL",0,5921,2495,0,24312
 "66","Salta","Moderna ARNm 020 mg mL",0,36780,100553,4504,307250
-"66","Salta","Moderna Bivariante BA 4 5",253,72,92,0,25933
+"66","Salta","Moderna Bivariante BA 4 5",253,72,92,0,25957
 "66","Salta","Pfizer BioNTech Comirnaty",0,105004,111499,17422,294282
 "66","Salta","Pfizer Bivariante BA 4 5",0,7,39,0,52661
 "66","Salta","Pfizer Pediátrica",0,3305,1117,53,7427
