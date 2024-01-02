@@ -4,7 +4,7 @@
 "06","Buenos Aires","Cansino Ad5 nCoV",90334,0,7732,1632,110492
 "06","Buenos Aires","Moderna 010 mg mL",0,52331,31656,0,181427
 "06","Buenos Aires","Moderna ARNm 020 mg mL",0,426919,1263907,3185,4551254
-"06","Buenos Aires","Moderna Bivariante BA 4 5",265,12,9,0,260378
+"06","Buenos Aires","Moderna Bivariante BA 4 5",265,12,9,0,260339
 "06","Buenos Aires","Pfizer BioNTech Comirnaty",0,1374317,1452448,77612,5407881
 "06","Buenos Aires","Pfizer Bivariante BA 4 5",0,0,0,0,242104
 "06","Buenos Aires","Pfizer Pediátrica",0,20650,10745,141169,2065
@@ -40,7 +40,7 @@
 "22","Chaco","Cansino Ad5 nCoV",11410,0,823,212,21367
 "22","Chaco","Moderna 010 mg mL",0,4755,2474,0,17310
 "22","Chaco","Moderna ARNm 020 mg mL",0,31722,70296,1400,174093
-"22","Chaco","Moderna Bivariante BA 4 5",331,308,192,0,19770
+"22","Chaco","Moderna Bivariante BA 4 5",331,308,192,0,19761
 "22","Chaco","Pfizer BioNTech Comirnaty",0,69527,58819,7795,163885
 "22","Chaco","Pfizer Bivariante BA 4 5",0,6,23,0,17912
 "22","Chaco","Pfizer Pediátrica",0,811,336,252,4202
@@ -76,7 +76,7 @@
 "14","Córdoba","Cansino Ad5 nCoV",38411,0,5735,33,11375
 "14","Córdoba","Moderna 010 mg mL",0,8395,5064,0,59453
 "14","Córdoba","Moderna ARNm 020 mg mL",0,50358,269014,37,927414
-"14","Córdoba","Moderna Bivariante BA 4 5",608,153,179,0,34071
+"14","Córdoba","Moderna Bivariante BA 4 5",608,153,179,0,34070
 "14","Córdoba","Pfizer BioNTech Comirnaty",0,284157,259059,16564,728093
 "14","Córdoba","Pfizer Bivariante BA 4 5",0,0,0,0,52369
 "14","Córdoba","Pfizer Pediátrica",0,1771,1109,179,24683
@@ -196,7 +196,7 @@
 "66","Salta","Moderna ARNm 020 mg mL",0,36790,100591,4504,307381
 "66","Salta","Moderna Bivariante BA 4 5",727,235,262,0,36667
 "66","Salta","Pfizer BioNTech Comirnaty",0,105107,111634,17422,294662
-"66","Salta","Pfizer Bivariante BA 4 5",0,7,40,0,52733
+"66","Salta","Pfizer Bivariante BA 4 5",0,7,40,0,52732
 "66","Salta","Pfizer Pediátrica",0,3306,1117,53,7434
 "66","Salta","Sinopharm Vacuna SARSCOV 2 inactivada",0,419886,343697,277,1393
 "66","Salta","Sputnik Light",151,0,361,0,4201
@@ -242,7 +242,7 @@
 "82","Santa Fe","Cansino Ad5 nCoV",26556,0,179,29,2109
 "82","Santa Fe","Moderna 010 mg mL",0,13293,7128,0,42876
 "82","Santa Fe","Moderna ARNm 020 mg mL",0,47440,258495,14225,1457070
-"82","Santa Fe","Moderna Bivariante BA 4 5",812,647,552,0,57661
+"82","Santa Fe","Moderna Bivariante BA 4 5",812,647,552,0,57660
 "82","Santa Fe","Pfizer BioNTech Comirnaty",0,269394,262532,133659,1024134
 "82","Santa Fe","Pfizer Bivariante BA 4 5",0,0,0,0,60515
 "82","Santa Fe","Pfizer Pediátrica",0,528,278,1225,23766
