@@ -9,7 +9,7 @@
 "06","Buenos Aires","Moderna Monovalente XBB 1 5",1968,241,21,0,649
 "06","Buenos Aires","Pfizer BioNTech Comirnaty",0,1374363,1452531,77612,5408371
 "06","Buenos Aires","Pfizer Bivariante BA 4 5",0,2,0,0,458944
-"06","Buenos Aires","Pfizer Monovalente XBB 1 5",9447,244,515,0,290
+"06","Buenos Aires","Pfizer Monovalente XBB 1 5",9446,244,515,0,290
 "06","Buenos Aires","Pfizer Pediátrica",0,20675,10766,141505,2079
 "06","Buenos Aires","Sinopharm Vacuna SARSCOV 2 inactivada",0,5957637,5272121,1662,13080
 "06","Buenos Aires","Sputnik Light",426,0,1081,0,7924
@@ -24,7 +24,7 @@
 "02","CABA","Moderna Monovalente XBB 1 5",24,1382,978,0,5374
 "02","CABA","Pfizer BioNTech Comirnaty",0,193605,220507,62863,1286643
 "02","CABA","Pfizer Bivariante BA 4 5",0,9,3,0,353758
-"02","CABA","Pfizer Monovalente XBB 1 5",581,76,166,0,22743
+"02","CABA","Pfizer Monovalente XBB 1 5",581,76,166,0,22740
 "02","CABA","Pfizer Pediátrica",0,2892,2058,1678,89478
 "02","CABA","Sinopharm Vacuna SARSCOV 2 inactivada",0,1019530,968504,1664,5461
 "02","CABA","Sputnik Light",175,0,234,0,78
@@ -51,7 +51,7 @@
 "22","Chaco","Moderna 010 mg mL",0,4762,2485,0,17374
 "22","Chaco","Moderna ARNm 020 mg mL",0,31728,70308,1400,174200
 "22","Chaco","Moderna Bivariante BA 4 5",864,687,418,0,35022
-"22","Chaco","Moderna Monovalente XBB 1 5",57,114,67,0,607
+"22","Chaco","Moderna Monovalente XBB 1 5",57,114,67,0,606
 "22","Chaco","Pfizer BioNTech Comirnaty",0,69544,58837,7795,163943
 "22","Chaco","Pfizer Bivariante BA 4 5",0,15,42,0,33677
 "22","Chaco","Pfizer Monovalente XBB 1 5",79,8,7,0,1849
@@ -124,7 +124,7 @@
 "34","Formosa","Moderna 010 mg mL",0,5292,2246,0,22150
 "34","Formosa","Moderna ARNm 020 mg mL",0,40762,9699,155,175177
 "34","Formosa","Moderna Bivariante BA 4 5",41,1694,1577,0,49783
-"34","Formosa","Moderna Monovalente XBB 1 5",88,344,182,0,6363
+"34","Formosa","Moderna Monovalente XBB 1 5",88,341,181,0,6360
 "34","Formosa","Pfizer BioNTech Comirnaty",0,26597,56202,21470,86696
 "34","Formosa","Pfizer Bivariante BA 4 5",0,508,289,0,46807
 "34","Formosa","Pfizer Monovalente XBB 1 5",203,47,61,0,10379
@@ -213,7 +213,7 @@
 "58","Neuquén","Moderna Bivariante BA 4 5",402,229,247,0,13702
 "58","Neuquén","Moderna Monovalente XBB 1 5",62,15,39,0,199
 "58","Neuquén","Pfizer BioNTech Comirnaty",0,51207,48055,3302,147118
-"58","Neuquén","Pfizer Bivariante BA 4 5",0,9,22,0,40204
+"58","Neuquén","Pfizer Bivariante BA 4 5",0,9,22,0,40203
 "58","Neuquén","Pfizer Monovalente XBB 1 5",95,12,12,0,1258
 "58","Neuquén","Pfizer Pediátrica",0,396,196,26,3970
 "58","Neuquén","Sinopharm Vacuna SARSCOV 2 inactivada",0,236876,212985,87,622
