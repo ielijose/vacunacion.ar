@@ -6,10 +6,10 @@
 "06","Buenos Aires","Moderna 010 mg mL",0,52541,31876,0,183280
 "06","Buenos Aires","Moderna ARNm 020 mg mL",0,426932,1263918,3185,4551788
 "06","Buenos Aires","Moderna Bivariante BA 4 5",298,22,16,0,601592
-"06","Buenos Aires","Moderna Monovalente XBB 1 5",2318,283,27,0,712
+"06","Buenos Aires","Moderna Monovalente XBB 1 5",2257,276,27,0,706
 "06","Buenos Aires","Pfizer BioNTech Comirnaty",0,1374364,1452531,77612,5408371
 "06","Buenos Aires","Pfizer Bivariante BA 4 5",0,2,0,0,458949
-"06","Buenos Aires","Pfizer Monovalente XBB 1 5",10107,268,559,0,305
+"06","Buenos Aires","Pfizer Monovalente XBB 1 5",9978,265,556,0,304
 "06","Buenos Aires","Pfizer Pediátrica",0,20675,10766,141505,2079
 "06","Buenos Aires","Sinopharm Vacuna SARSCOV 2 inactivada",0,5957637,5272121,1662,13080
 "06","Buenos Aires","Sputnik Light",426,0,1081,0,7924
@@ -21,10 +21,10 @@
 "02","CABA","Moderna 010 mg mL",0,16555,9693,0,64377
 "02","CABA","Moderna ARNm 020 mg mL",0,36709,280102,1488,2065942
 "02","CABA","Moderna Bivariante BA 4 5",5519,1896,3127,0,262696
-"02","CABA","Moderna Monovalente XBB 1 5",24,1443,1034,0,5844
+"02","CABA","Moderna Monovalente XBB 1 5",24,1433,1023,0,5754
 "02","CABA","Pfizer BioNTech Comirnaty",0,193605,220507,62863,1286643
 "02","CABA","Pfizer Bivariante BA 4 5",0,9,3,0,353767
-"02","CABA","Pfizer Monovalente XBB 1 5",617,81,181,0,24394
+"02","CABA","Pfizer Monovalente XBB 1 5",610,81,177,0,24083
 "02","CABA","Pfizer Pediátrica",0,2892,2058,1678,89478
 "02","CABA","Sinopharm Vacuna SARSCOV 2 inactivada",0,1019531,968505,1664,5462
 "02","CABA","Sputnik Light",175,0,234,0,78
@@ -36,10 +36,10 @@
 "10","Catamarca","Moderna 010 mg mL",0,5675,2905,0,13106
 "10","Catamarca","Moderna ARNm 020 mg mL",0,7726,24275,403,141596
 "10","Catamarca","Moderna Bivariante BA 4 5",219,434,355,0,19627
-"10","Catamarca","Moderna Monovalente XBB 1 5",5,97,65,0,421
+"10","Catamarca","Moderna Monovalente XBB 1 5",5,97,65,0,417
 "10","Catamarca","Pfizer BioNTech Comirnaty",0,33600,30821,863,97369
 "10","Catamarca","Pfizer Bivariante BA 4 5",0,3,5,0,23368
-"10","Catamarca","Pfizer Monovalente XBB 1 5",43,2,0,0,892
+"10","Catamarca","Pfizer Monovalente XBB 1 5",43,2,0,0,888
 "10","Catamarca","Pfizer Pediátrica",0,47,91,57,15664
 "10","Catamarca","Sinopharm Vacuna SARSCOV 2 inactivada",0,171559,157681,43,667
 "10","Catamarca","Sputnik Light",5,0,3,0,295
@@ -51,12 +51,12 @@
 "22","Chaco","Moderna 010 mg mL",0,4762,2485,0,17374
 "22","Chaco","Moderna ARNm 020 mg mL",0,31728,70308,1400,174200
 "22","Chaco","Moderna Bivariante BA 4 5",864,687,418,0,35022
-"22","Chaco","Moderna Monovalente XBB 1 5",59,119,73,0,640
-"22","Chaco","Pfizer BioNTech Comirnaty",0,69544,58838,7795,163944
-"22","Chaco","Pfizer Bivariante BA 4 5",0,15,42,0,33683
-"22","Chaco","Pfizer Monovalente XBB 1 5",86,8,9,0,2068
+"22","Chaco","Moderna Monovalente XBB 1 5",59,117,73,0,625
+"22","Chaco","Pfizer BioNTech Comirnaty",0,69544,58837,7795,163944
+"22","Chaco","Pfizer Bivariante BA 4 5",0,15,42,0,33682
+"22","Chaco","Pfizer Monovalente XBB 1 5",83,8,9,0,2036
 "22","Chaco","Pfizer Pediátrica",0,812,337,252,4205
-"22","Chaco","Sinopharm Vacuna SARSCOV 2 inactivada",0,393598,314851,445,3754
+"22","Chaco","Sinopharm Vacuna SARSCOV 2 inactivada",0,393598,314848,445,3754
 "22","Chaco","Sputnik Light",51,0,82,0,589
 "22","Chaco","Sputnik V COVID19 Instituto Gamaleya",0,258390,182146,4471,54839
 "26","Chubut","ARVAC proteina RBD gamma omicron BA 4 5",0,0,0,0,10
@@ -66,27 +66,27 @@
 "26","Chubut","Moderna 010 mg mL",0,708,517,0,3850
 "26","Chubut","Moderna ARNm 020 mg mL",0,21142,34161,1220,89961
 "26","Chubut","Moderna Bivariante BA 4 5",416,116,100,0,22899
-"26","Chubut","Moderna Monovalente XBB 1 5",35,16,8,0,213
+"26","Chubut","Moderna Monovalente XBB 1 5",35,16,8,0,211
 "26","Chubut","Pfizer BioNTech Comirnaty",0,33500,40173,4516,147051
 "26","Chubut","Pfizer Bivariante BA 4 5",0,3,6,0,23470
-"26","Chubut","Pfizer Monovalente XBB 1 5",45,1,1,0,1330
+"26","Chubut","Pfizer Monovalente XBB 1 5",45,1,1,0,1319
 "26","Chubut","Pfizer Pediátrica",0,483,230,28,2715
 "26","Chubut","Sinopharm Vacuna SARSCOV 2 inactivada",0,173449,142394,174,1028
 "26","Chubut","Sputnik Light",51,0,46,0,106
 "26","Chubut","Sputnik V COVID19 Instituto Gamaleya",0,136838,100198,905,15191
 "18","Corrientes","ARVAC proteina RBD gamma omicron BA 4 5",0,0,0,0,1
-"18","Corrientes","AstraZeneca ChAdOx1 S recombinante",0,194336,186166,17688,161687
+"18","Corrientes","AstraZeneca ChAdOx1 S recombinante",0,194335,186166,17688,161687
 "18","Corrientes","COVISHIELD ChAdOx1nCoV COVID 19",0,19896,494,0,0
 "18","Corrientes","Cansino Ad5 nCoV",11275,0,288,71,40841
 "18","Corrientes","Moderna 010 mg mL",0,10877,4402,0,25265
 "18","Corrientes","Moderna ARNm 020 mg mL",0,28291,63299,393,324179
-"18","Corrientes","Moderna Bivariante BA 4 5",201,364,236,0,36082
-"18","Corrientes","Moderna Monovalente XBB 1 5",19,163,94,0,447
-"18","Corrientes","Pfizer BioNTech Comirnaty",0,83472,81693,1794,275284
+"18","Corrientes","Moderna Bivariante BA 4 5",201,364,236,0,35992
+"18","Corrientes","Moderna Monovalente XBB 1 5",19,158,93,0,441
+"18","Corrientes","Pfizer BioNTech Comirnaty",0,83470,81685,1794,275276
 "18","Corrientes","Pfizer Bivariante BA 4 5",0,1,6,0,35799
-"18","Corrientes","Pfizer Monovalente XBB 1 5",70,6,4,0,3657
+"18","Corrientes","Pfizer Monovalente XBB 1 5",69,6,4,0,3613
 "18","Corrientes","Pfizer Pediátrica",0,390,262,262,42856
-"18","Corrientes","Sinopharm Vacuna SARSCOV 2 inactivada",0,430326,370787,66,2560
+"18","Corrientes","Sinopharm Vacuna SARSCOV 2 inactivada",0,430324,370784,66,2560
 "18","Corrientes","Sputnik Light",0,0,0,0,11
 "18","Corrientes","Sputnik V COVID19 Instituto Gamaleya",0,268531,195274,16,48894
 "14","Córdoba","AstraZeneca ChAdOx1 S recombinante",0,809363,825125,183917,658826
@@ -95,10 +95,10 @@
 "14","Córdoba","Moderna 010 mg mL",0,8400,5070,0,59553
 "14","Córdoba","Moderna ARNm 020 mg mL",0,50357,269017,37,927608
 "14","Córdoba","Moderna Bivariante BA 4 5",1592,641,542,0,80517
-"14","Córdoba","Moderna Monovalente XBB 1 5",131,293,159,0,946
+"14","Córdoba","Moderna Monovalente XBB 1 5",131,293,159,0,942
 "14","Córdoba","Pfizer BioNTech Comirnaty",0,284160,259059,16564,728152
 "14","Córdoba","Pfizer Bivariante BA 4 5",0,6,0,0,72672
-"14","Córdoba","Pfizer Monovalente XBB 1 5",721,19,20,0,5541
+"14","Córdoba","Pfizer Monovalente XBB 1 5",717,19,19,0,5484
 "14","Córdoba","Pfizer Pediátrica",0,1771,1110,179,24698
 "14","Córdoba","Sinopharm Vacuna SARSCOV 2 inactivada",0,1256914,1145069,512,9218
 "14","Córdoba","Sputnik Light",37,0,8,0,17
@@ -109,11 +109,11 @@
 "30","Entre Ríos","Cansino Ad5 nCoV",14042,0,502,14,5349
 "30","Entre Ríos","Moderna 010 mg mL",0,2953,1538,0,12016
 "30","Entre Ríos","Moderna ARNm 020 mg mL",0,24217,86779,215,289431
-"30","Entre Ríos","Moderna Bivariante BA 4 5",332,158,101,0,9767
+"30","Entre Ríos","Moderna Bivariante BA 4 5",332,158,100,0,9767
 "30","Entre Ríos","Moderna Monovalente XBB 1 5",40,16,13,0,464
 "30","Entre Ríos","Pfizer BioNTech Comirnaty",0,98146,86576,7672,258461
-"30","Entre Ríos","Pfizer Bivariante BA 4 5",0,6,20,0,34033
-"30","Entre Ríos","Pfizer Monovalente XBB 1 5",28,4,1,0,898
+"30","Entre Ríos","Pfizer Bivariante BA 4 5",0,6,20,0,34032
+"30","Entre Ríos","Pfizer Monovalente XBB 1 5",28,4,1,0,884
 "30","Entre Ríos","Pfizer Pediátrica",0,256,139,51,14671
 "30","Entre Ríos","Sinopharm Vacuna SARSCOV 2 inactivada",0,484637,431018,303,1638
 "30","Entre Ríos","Sputnik Light",16,0,46,0,802
@@ -124,10 +124,10 @@
 "34","Formosa","Moderna 010 mg mL",0,5292,2246,0,22150
 "34","Formosa","Moderna ARNm 020 mg mL",0,40762,9699,155,175177
 "34","Formosa","Moderna Bivariante BA 4 5",41,1694,1577,0,49784
-"34","Formosa","Moderna Monovalente XBB 1 5",91,380,201,0,6522
+"34","Formosa","Moderna Monovalente XBB 1 5",91,379,200,0,6511
 "34","Formosa","Pfizer BioNTech Comirnaty",0,26597,56202,21470,86696
-"34","Formosa","Pfizer Bivariante BA 4 5",0,508,289,0,46806
-"34","Formosa","Pfizer Monovalente XBB 1 5",214,70,66,0,10799
+"34","Formosa","Pfizer Bivariante BA 4 5",0,508,289,0,46807
+"34","Formosa","Pfizer Monovalente XBB 1 5",214,64,63,0,10752
 "34","Formosa","Pfizer Pediátrica",0,30,88,118,11474
 "34","Formosa","Sinopharm Vacuna SARSCOV 2 inactivada",0,235955,211601,372,445
 "34","Formosa","Sputnik V COVID19 Instituto Gamaleya",0,138039,89213,2986,10080
@@ -136,12 +136,12 @@
 "38","Jujuy","COVISHIELD ChAdOx1nCoV COVID 19",0,14040,296,0,0
 "38","Jujuy","Cansino Ad5 nCoV",1730,0,1691,36,32622
 "38","Jujuy","Moderna 010 mg mL",0,3331,1707,0,14112
-"38","Jujuy","Moderna ARNm 020 mg mL",0,26983,43232,1542,201521
+"38","Jujuy","Moderna ARNm 020 mg mL",0,26983,43232,1542,201520
 "38","Jujuy","Moderna Bivariante BA 4 5",2429,496,377,0,57766
-"38","Jujuy","Moderna Monovalente XBB 1 5",109,40,63,0,608
+"38","Jujuy","Moderna Monovalente XBB 1 5",108,40,63,0,584
 "38","Jujuy","Pfizer BioNTech Comirnaty",0,58167,72332,14713,159831
 "38","Jujuy","Pfizer Bivariante BA 4 5",0,37,68,0,49331
-"38","Jujuy","Pfizer Monovalente XBB 1 5",120,5,5,0,3711
+"38","Jujuy","Pfizer Monovalente XBB 1 5",120,4,5,0,3628
 "38","Jujuy","Pfizer Pediátrica",0,2585,962,184,14903
 "38","Jujuy","Sinopharm Vacuna SARSCOV 2 inactivada",0,279906,221132,439,1667
 "38","Jujuy","Sputnik Light",31,0,157,0,1212
@@ -152,9 +152,9 @@
 "42","La Pampa","Moderna 010 mg mL",0,716,369,0,3244
 "42","La Pampa","Moderna ARNm 020 mg mL",0,6374,26207,0,126033
 "42","La Pampa","Moderna Bivariante BA 4 5",99,59,31,0,6681
-"42","La Pampa","Moderna Monovalente XBB 1 5",5,15,12,0,183
+"42","La Pampa","Moderna Monovalente XBB 1 5",5,15,12,0,181
 "42","La Pampa","Pfizer BioNTech Comirnaty",0,27757,27447,4685,142695
-"42","La Pampa","Pfizer Bivariante BA 4 5",0,0,1,0,16470
+"42","La Pampa","Pfizer Bivariante BA 4 5",0,0,1,0,16469
 "42","La Pampa","Pfizer Monovalente XBB 1 5",16,2,1,0,614
 "42","La Pampa","Pfizer Pediátrica",0,199,113,0,5916
 "42","La Pampa","Sinopharm Vacuna SARSCOV 2 inactivada",0,136158,131068,0,10
@@ -170,7 +170,7 @@
 "46","La Rioja","Moderna Monovalente XBB 1 5",23,49,16,0,296
 "46","La Rioja","Pfizer BioNTech Comirnaty",0,30350,35376,10361,105017
 "46","La Rioja","Pfizer Bivariante BA 4 5",0,1,4,0,18936
-"46","La Rioja","Pfizer Monovalente XBB 1 5",45,2,2,0,1833
+"46","La Rioja","Pfizer Monovalente XBB 1 5",44,2,2,0,1800
 "46","La Rioja","Pfizer Pediátrica",0,60,52,427,5845
 "46","La Rioja","Sinopharm Vacuna SARSCOV 2 inactivada",0,140941,126609,56,573
 "46","La Rioja","Sputnik Light",11,0,11,0,924
@@ -182,10 +182,10 @@
 "50","Mendoza","Moderna 010 mg mL",0,12217,7209,0,35398
 "50","Mendoza","Moderna ARNm 020 mg mL",0,31998,146560,185,392597
 "50","Mendoza","Moderna Bivariante BA 4 5",2140,999,1074,0,54199
-"50","Mendoza","Moderna Monovalente XBB 1 5",445,262,138,0,2572
+"50","Mendoza","Moderna Monovalente XBB 1 5",442,259,137,0,2502
 "50","Mendoza","Pfizer BioNTech Comirnaty",0,152926,155877,6846,415888
 "50","Mendoza","Pfizer Bivariante BA 4 5",0,6,42,0,115471
-"50","Mendoza","Pfizer Monovalente XBB 1 5",383,20,18,0,6889
+"50","Mendoza","Pfizer Monovalente XBB 1 5",381,19,16,0,6846
 "50","Mendoza","Pfizer Pediátrica",0,4224,1186,54,22326
 "50","Mendoza","Sinopharm Vacuna SARSCOV 2 inactivada",0,615608,529522,296,2349
 "50","Mendoza","Sputnik Light",126,0,221,0,1380
@@ -199,7 +199,7 @@
 "54","Misiones","Moderna Monovalente XBB 1 5",31,97,9,0,410
 "54","Misiones","Pfizer BioNTech Comirnaty",0,62148,63979,15127,148755
 "54","Misiones","Pfizer Bivariante BA 4 5",0,0,0,0,19953
-"54","Misiones","Pfizer Monovalente XBB 1 5",70,19,21,0,913
+"54","Misiones","Pfizer Monovalente XBB 1 5",69,18,21,0,903
 "54","Misiones","Pfizer Pediátrica",0,2148,789,232,2697
 "54","Misiones","Sinopharm Vacuna SARSCOV 2 inactivada",0,351286,280326,1075,5847
 "54","Misiones","Sputnik Light",8,0,12,0,29
@@ -207,16 +207,16 @@
 "58","Neuquén","ARVAC proteina RBD gamma omicron BA 4 5",0,0,0,0,3
 "58","Neuquén","AstraZeneca ChAdOx1 S recombinante",0,142608,146635,24390,73147
 "58","Neuquén","COVISHIELD ChAdOx1nCoV COVID 19",0,12841,66,0,0
-"58","Neuquén","Cansino Ad5 nCoV",10689,0,2497,1,59155
+"58","Neuquén","Cansino Ad5 nCoV",10689,0,2497,1,59153
 "58","Neuquén","Moderna 010 mg mL",0,1871,1052,0,7308
-"58","Neuquén","Moderna ARNm 020 mg mL",0,14540,45856,65,147162
-"58","Neuquén","Moderna Bivariante BA 4 5",402,229,247,0,13708
-"58","Neuquén","Moderna Monovalente XBB 1 5",66,15,40,0,265
-"58","Neuquén","Pfizer BioNTech Comirnaty",0,51207,48055,3302,147122
-"58","Neuquén","Pfizer Bivariante BA 4 5",0,9,22,0,40218
-"58","Neuquén","Pfizer Monovalente XBB 1 5",103,12,13,0,1468
+"58","Neuquén","Moderna ARNm 020 mg mL",0,14540,45856,65,147161
+"58","Neuquén","Moderna Bivariante BA 4 5",402,229,247,0,13707
+"58","Neuquén","Moderna Monovalente XBB 1 5",64,15,40,0,236
+"58","Neuquén","Pfizer BioNTech Comirnaty",0,51207,48055,3302,147120
+"58","Neuquén","Pfizer Bivariante BA 4 5",0,9,22,0,40217
+"58","Neuquén","Pfizer Monovalente XBB 1 5",102,12,13,0,1406
 "58","Neuquén","Pfizer Pediátrica",0,396,196,26,3970
-"58","Neuquén","Sinopharm Vacuna SARSCOV 2 inactivada",0,236876,212987,87,622
+"58","Neuquén","Sinopharm Vacuna SARSCOV 2 inactivada",0,236876,212986,87,622
 "58","Neuquén","Sputnik Light",104,0,125,0,326
 "58","Neuquén","Sputnik V COVID19 Instituto Gamaleya",0,173068,125554,1712,56432
 "62","Río Negro","ARVAC proteina RBD gamma omicron BA 4 5",0,0,0,0,11
@@ -226,12 +226,12 @@
 "62","Río Negro","Moderna 010 mg mL",0,1838,1101,0,9014
 "62","Río Negro","Moderna ARNm 020 mg mL",0,11850,54132,6624,175169
 "62","Río Negro","Moderna Bivariante BA 4 5",1804,109,104,0,25061
-"62","Río Negro","Moderna Monovalente XBB 1 5",22,15,11,0,226
+"62","Río Negro","Moderna Monovalente XBB 1 5",22,15,11,0,225
 "62","Río Negro","Pfizer BioNTech Comirnaty",0,55734,53771,26621,161040
 "62","Río Negro","Pfizer Bivariante BA 4 5",0,4,9,0,43491
-"62","Río Negro","Pfizer Monovalente XBB 1 5",103,4,4,0,1265
+"62","Río Negro","Pfizer Monovalente XBB 1 5",102,4,4,0,1255
 "62","Río Negro","Pfizer Pediátrica",0,812,323,38,4458
-"62","Río Negro","Sinopharm Vacuna SARSCOV 2 inactivada",0,277936,246197,588,1973
+"62","Río Negro","Sinopharm Vacuna SARSCOV 2 inactivada",0,277936,246196,588,1973
 "62","Río Negro","Sputnik V COVID19 Instituto Gamaleya",0,177621,118018,16148,37573
 "66","Salta","ARVAC proteina RBD gamma omicron BA 4 5",0,0,0,0,41
 "66","Salta","AstraZeneca ChAdOx1 S recombinante",0,312313,277075,23081,25944
@@ -239,13 +239,13 @@
 "66","Salta","Cansino Ad5 nCoV",3939,0,258,476,8527
 "66","Salta","Moderna 010 mg mL",0,5944,2505,0,24405
 "66","Salta","Moderna ARNm 020 mg mL",0,36799,100615,4504,307475
-"66","Salta","Moderna Bivariante BA 4 5",2832,842,559,0,76674
-"66","Salta","Moderna Monovalente XBB 1 5",125,50,21,0,1845
+"66","Salta","Moderna Bivariante BA 4 5",2832,842,559,0,76672
+"66","Salta","Moderna Monovalente XBB 1 5",123,49,19,0,1771
 "66","Salta","Pfizer BioNTech Comirnaty",0,105182,111711,17422,294781
-"66","Salta","Pfizer Bivariante BA 4 5",0,13,44,0,77019
-"66","Salta","Pfizer Monovalente XBB 1 5",254,8,17,0,6351
+"66","Salta","Pfizer Bivariante BA 4 5",0,13,44,0,77013
+"66","Salta","Pfizer Monovalente XBB 1 5",252,8,17,0,6310
 "66","Salta","Pfizer Pediátrica",0,3307,1117,53,7437
-"66","Salta","Sinopharm Vacuna SARSCOV 2 inactivada",0,419997,343839,277,1407
+"66","Salta","Sinopharm Vacuna SARSCOV 2 inactivada",0,419997,343838,277,1407
 "66","Salta","Sputnik Light",151,0,362,0,4208
 "66","Salta","Sputnik V COVID19 Instituto Gamaleya",0,300564,206713,10559,58863
 "70","San Juan","ARVAC proteina RBD gamma omicron BA 4 5",0,0,0,0,3
@@ -256,9 +256,9 @@
 "70","San Juan","Moderna ARNm 020 mg mL",0,19529,45061,665,126646
 "70","San Juan","Moderna Bivariante BA 4 5",279,106,93,0,15138
 "70","San Juan","Moderna Monovalente XBB 1 5",6,16,9,0,110
-"70","San Juan","Pfizer BioNTech Comirnaty",0,58683,52683,7353,137712
+"70","San Juan","Pfizer BioNTech Comirnaty",0,58683,52683,7353,137711
 "70","San Juan","Pfizer Bivariante BA 4 5",0,2,0,0,23082
-"70","San Juan","Pfizer Monovalente XBB 1 5",52,6,5,0,761
+"70","San Juan","Pfizer Monovalente XBB 1 5",51,6,5,0,748
 "70","San Juan","Pfizer Pediátrica",0,590,330,2,9777
 "70","San Juan","Sinopharm Vacuna SARSCOV 2 inactivada",0,264072,238530,53,445
 "70","San Juan","Sputnik Light",75,0,121,0,646
@@ -269,25 +269,25 @@
 "74","San Luis","Moderna 010 mg mL",0,657,282,0,5444
 "74","San Luis","Moderna ARNm 020 mg mL",0,9278,32212,430,162198
 "74","San Luis","Moderna Bivariante BA 4 5",202,56,41,0,8367
-"74","San Luis","Moderna Monovalente XBB 1 5",44,21,18,0,196
+"74","San Luis","Moderna Monovalente XBB 1 5",44,20,18,0,193
 "74","San Luis","Pfizer BioNTech Comirnaty",0,38695,37199,12270,180437
 "74","San Luis","Pfizer Bivariante BA 4 5",0,2,0,0,9214
-"74","San Luis","Pfizer Monovalente XBB 1 5",90,3,7,0,762
+"74","San Luis","Pfizer Monovalente XBB 1 5",90,3,7,0,753
 "74","San Luis","Pfizer Pediátrica",0,110,53,6,16486
 "74","San Luis","Sinopharm Vacuna SARSCOV 2 inactivada",0,174588,165908,22,496
 "74","San Luis","Sputnik Light",8,0,12,0,317
 "74","San Luis","Sputnik V COVID19 Instituto Gamaleya",0,126858,93033,306,29922
 "78","Santa Cruz","ARVAC proteina RBD gamma omicron BA 4 5",0,0,0,0,3
-"78","Santa Cruz","AstraZeneca ChAdOx1 S recombinante",0,65271,65147,8993,31162
+"78","Santa Cruz","AstraZeneca ChAdOx1 S recombinante",0,65271,65147,8993,31161
 "78","Santa Cruz","COVISHIELD ChAdOx1nCoV COVID 19",0,6019,730,0,0
 "78","Santa Cruz","Cansino Ad5 nCoV",2351,0,91,1,2674
 "78","Santa Cruz","Moderna 010 mg mL",0,876,406,0,2195
 "78","Santa Cruz","Moderna ARNm 020 mg mL",0,9724,20456,121,67000
 "78","Santa Cruz","Moderna Bivariante BA 4 5",70,58,67,0,10696
-"78","Santa Cruz","Moderna Monovalente XBB 1 5",13,4,5,0,131
-"78","Santa Cruz","Pfizer BioNTech Comirnaty",0,24270,26058,7683,70257
+"78","Santa Cruz","Moderna Monovalente XBB 1 5",13,4,4,0,126
+"78","Santa Cruz","Pfizer BioNTech Comirnaty",0,24270,26058,7683,70256
 "78","Santa Cruz","Pfizer Bivariante BA 4 5",0,3,6,0,15690
-"78","Santa Cruz","Pfizer Monovalente XBB 1 5",26,2,2,0,815
+"78","Santa Cruz","Pfizer Monovalente XBB 1 5",25,2,2,0,799
 "78","Santa Cruz","Pfizer Pediátrica",0,115,71,12,3253
 "78","Santa Cruz","Sinopharm Vacuna SARSCOV 2 inactivada",0,106347,94083,80,655
 "78","Santa Cruz","Sputnik Light",24,0,48,0,517
@@ -316,7 +316,7 @@
 "86","Santiago del Estero","Moderna Monovalente XBB 1 5",4,7,11,0,90
 "86","Santiago del Estero","Pfizer BioNTech Comirnaty",0,97129,91303,3753,131462
 "86","Santiago del Estero","Pfizer Bivariante BA 4 5",0,5,28,0,20370
-"86","Santiago del Estero","Pfizer Monovalente XBB 1 5",19,0,1,0,530
+"86","Santiago del Estero","Pfizer Monovalente XBB 1 5",19,0,1,0,524
 "86","Santiago del Estero","Pfizer Pediátrica",0,94,81,39,18356
 "86","Santiago del Estero","Sinopharm Vacuna SARSCOV 2 inactivada",1,399328,371157,316,1539
 "86","Santiago del Estero","Sputnik Light",3,0,5,0,90
@@ -328,10 +328,10 @@
 "94","Tierra del Fuego","Moderna 010 mg mL",0,471,224,0,1174
 "94","Tierra del Fuego","Moderna ARNm 020 mg mL",0,2415,12895,210,42893
 "94","Tierra del Fuego","Moderna Bivariante BA 4 5",383,34,36,0,8479
-"94","Tierra del Fuego","Moderna Monovalente XBB 1 5",21,3,4,0,85
+"94","Tierra del Fuego","Moderna Monovalente XBB 1 5",20,3,4,0,82
 "94","Tierra del Fuego","Pfizer BioNTech Comirnaty",0,14517,13717,944,33861
 "94","Tierra del Fuego","Pfizer Bivariante BA 4 5",0,8,3,0,10338
-"94","Tierra del Fuego","Pfizer Monovalente XBB 1 5",24,0,2,0,648
+"94","Tierra del Fuego","Pfizer Monovalente XBB 1 5",23,0,2,0,639
 "94","Tierra del Fuego","Pfizer Pediátrica",0,123,54,10,3308
 "94","Tierra del Fuego","Sinopharm Vacuna SARSCOV 2 inactivada",0,58533,53909,24,212
 "94","Tierra del Fuego","Sputnik Light",9,0,12,0,6
@@ -340,12 +340,12 @@
 "90","Tucumán","COVISHIELD ChAdOx1nCoV COVID 19",0,20765,93,0,0
 "90","Tucumán","Cansino Ad5 nCoV",7904,0,71,1410,18692
 "90","Tucumán","Moderna 010 mg mL",0,2083,930,0,9668
-"90","Tucumán","Moderna ARNm 020 mg mL",0,34826,109788,21452,327811
+"90","Tucumán","Moderna ARNm 020 mg mL",0,34826,109788,21452,327810
 "90","Tucumán","Moderna Bivariante BA 4 5",0,422,493,0,30934
-"90","Tucumán","Moderna Monovalente XBB 1 5",5,34,43,0,385
-"90","Tucumán","Pfizer BioNTech Comirnaty",0,119863,103675,246,203974
+"90","Tucumán","Moderna Monovalente XBB 1 5",5,34,43,0,378
+"90","Tucumán","Pfizer BioNTech Comirnaty",0,119864,103675,246,203974
 "90","Tucumán","Pfizer Bivariante BA 4 5",0,40,81,0,81900
-"90","Tucumán","Pfizer Monovalente XBB 1 5",26,22,60,0,5120
+"90","Tucumán","Pfizer Monovalente XBB 1 5",25,19,54,0,5009
 "90","Tucumán","Pfizer Pediátrica",0,2222,561,2694,37034
 "90","Tucumán","Sinopharm Vacuna SARSCOV 2 inactivada",0,545162,486731,3,960
 "90","Tucumán","Sputnik Light",87,0,135,0,5717
