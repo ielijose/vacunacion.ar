@@ -6,10 +6,10 @@
 "06","Buenos Aires","Moderna 010 mg mL",0,52542,31877,0,183280
 "06","Buenos Aires","Moderna ARNm 020 mg mL",0,426932,1263918,3185,4551788
 "06","Buenos Aires","Moderna Bivariante BA 4 5",298,22,16,0,601595
-"06","Buenos Aires","Moderna Monovalente XBB 1 5",3292,329,55,0,836
+"06","Buenos Aires","Moderna Monovalente XBB 1 5",3279,329,55,0,836
 "06","Buenos Aires","Pfizer BioNTech Comirnaty",0,1374363,1452530,77612,5408372
 "06","Buenos Aires","Pfizer Bivariante BA 4 5",0,2,0,0,459006
-"06","Buenos Aires","Pfizer Monovalente XBB 1 5",11786,327,658,0,438
+"06","Buenos Aires","Pfizer Monovalente XBB 1 5",11783,327,658,0,438
 "06","Buenos Aires","Pfizer Pediátrica",0,20675,10766,141505,2079
 "06","Buenos Aires","Sinopharm Vacuna SARSCOV 2 inactivada",0,5957637,5272121,1662,13080
 "06","Buenos Aires","Sputnik Light",426,0,1081,0,7924
@@ -167,10 +167,10 @@
 "46","La Rioja","Moderna 010 mg mL",0,1578,735,0,6588
 "46","La Rioja","Moderna ARNm 020 mg mL",0,10484,27032,1892,113477
 "46","La Rioja","Moderna Bivariante BA 4 5",1068,229,106,0,19880
-"46","La Rioja","Moderna Monovalente XBB 1 5",25,51,16,0,330
+"46","La Rioja","Moderna Monovalente XBB 1 5",25,51,16,0,329
 "46","La Rioja","Pfizer BioNTech Comirnaty",0,30350,35376,10361,105017
 "46","La Rioja","Pfizer Bivariante BA 4 5",0,1,4,0,18936
-"46","La Rioja","Pfizer Monovalente XBB 1 5",62,3,4,0,2187
+"46","La Rioja","Pfizer Monovalente XBB 1 5",62,3,4,0,2185
 "46","La Rioja","Pfizer Pediátrica",0,60,52,427,5845
 "46","La Rioja","Sinopharm Vacuna SARSCOV 2 inactivada",0,140941,126609,56,573
 "46","La Rioja","Sputnik Light",11,0,11,0,924
@@ -240,10 +240,10 @@
 "66","Salta","Moderna 010 mg mL",0,5944,2505,0,24406
 "66","Salta","Moderna ARNm 020 mg mL",0,36799,100615,4504,307476
 "66","Salta","Moderna Bivariante BA 4 5",2832,843,559,0,76674
-"66","Salta","Moderna Monovalente XBB 1 5",161,119,42,0,2908
+"66","Salta","Moderna Monovalente XBB 1 5",161,119,42,0,2906
 "66","Salta","Pfizer BioNTech Comirnaty",0,105185,111715,17422,294810
 "66","Salta","Pfizer Bivariante BA 4 5",0,13,44,0,77024
-"66","Salta","Pfizer Monovalente XBB 1 5",347,8,17,0,7424
+"66","Salta","Pfizer Monovalente XBB 1 5",346,8,17,0,7414
 "66","Salta","Pfizer Pediátrica",0,3307,1117,53,7437
 "66","Salta","Sinopharm Vacuna SARSCOV 2 inactivada",0,420000,343847,277,1407
 "66","Salta","Sputnik Light",151,0,362,0,4208
