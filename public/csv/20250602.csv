@@ -170,7 +170,7 @@
 "46","La Rioja","Moderna Monovalente XBB 1 5",97,90,21,0,1101
 "46","La Rioja","Pfizer BioNTech Comirnaty",0,30349,35376,10361,105017
 "46","La Rioja","Pfizer Bivariante BA 4 5",0,1,4,0,18936
-"46","La Rioja","Pfizer Monovalente XBB 1 5",334,3,5,0,5555
+"46","La Rioja","Pfizer Monovalente XBB 1 5",334,3,5,0,5554
 "46","La Rioja","Pfizer Pediátrica",0,60,52,427,5845
 "46","La Rioja","Sinopharm Vacuna SARSCOV 2 inactivada",0,140942,126611,56,573
 "46","La Rioja","Sputnik Light",11,0,11,0,924
@@ -213,7 +213,7 @@
 "58","Neuquén","Moderna Monovalente JN1",6,1,0,0,171
 "58","Neuquén","Moderna Monovalente XBB 1 5",189,19,41,0,2967
 "58","Neuquén","Pfizer BioNTech Comirnaty",0,51208,48057,3302,147176
-"58","Neuquén","Pfizer Bivariante BA 4 5",0,9,22,0,40315
+"58","Neuquén","Pfizer Bivariante BA 4 5",0,9,22,0,40314
 "58","Neuquén","Pfizer Monovalente XBB 1 5",221,13,17,0,3094
 "58","Neuquén","Pfizer Pediátrica",0,396,196,26,3970
 "58","Neuquén","Sinopharm Vacuna SARSCOV 2 inactivada",0,236882,212993,87,623
@@ -238,8 +238,8 @@
 "66","Salta","Moderna 010 mg mL",0,5944,2505,0,24407
 "66","Salta","Moderna ARNm 020 mg mL",0,36800,100618,4504,307483
 "66","Salta","Moderna Bivariante BA 4 5",2840,845,561,0,76724
-"66","Salta","Moderna Monovalente JN1",16,0,2,0,331
-"66","Salta","Moderna Monovalente XBB 1 5",295,156,52,0,5463
+"66","Salta","Moderna Monovalente JN1",16,0,2,0,313
+"66","Salta","Moderna Monovalente XBB 1 5",295,156,52,0,5462
 "66","Salta","Pfizer BioNTech Comirnaty",0,105191,111718,17422,294813
 "66","Salta","Pfizer Bivariante BA 4 5",0,13,44,0,77088
 "66","Salta","Pfizer Monovalente XBB 1 5",475,12,17,0,9617
@@ -283,7 +283,7 @@
 "78","Santa Cruz","Moderna 010 mg mL",0,876,406,0,2195
 "78","Santa Cruz","Moderna ARNm 020 mg mL",0,9724,20456,121,67002
 "78","Santa Cruz","Moderna Bivariante BA 4 5",70,58,67,0,10695
-"78","Santa Cruz","Moderna Monovalente JN1",10,0,0,0,106
+"78","Santa Cruz","Moderna Monovalente JN1",10,0,0,0,101
 "78","Santa Cruz","Moderna Monovalente XBB 1 5",25,6,9,0,1014
 "78","Santa Cruz","Pfizer BioNTech Comirnaty",0,24272,26060,7683,70260
 "78","Santa Cruz","Pfizer Bivariante BA 4 5",0,3,6,0,15693
