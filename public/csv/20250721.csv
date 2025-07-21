@@ -6,7 +6,7 @@
 "06","Buenos Aires","Moderna ARNm 020 mg mL",0,426932,1263918,3185,4551790
 "06","Buenos Aires","Moderna Bivariante BA 4 5",298,23,16,0,601601
 "06","Buenos Aires","Moderna Monovalente JN1",0,0,0,0,1
-"06","Buenos Aires","Moderna Monovalente XBB 1 5",23619,436,95,0,1089
+"06","Buenos Aires","Moderna Monovalente XBB 1 5",23584,436,95,0,1088
 "06","Buenos Aires","Pfizer BioNTech Comirnaty",0,1374364,1452532,77612,5408373
 "06","Buenos Aires","Pfizer Bivariante BA 4 5",0,2,0,0,459266
 "06","Buenos Aires","Pfizer Monovalente XBB 1 5",18142,410,813,0,536
@@ -170,7 +170,7 @@
 "46","La Rioja","Moderna ARNm 020 mg mL",0,10484,27032,1892,113477
 "46","La Rioja","Moderna Bivariante BA 4 5",1068,229,106,0,19880
 "46","La Rioja","Moderna Monovalente JN1",32,1,0,0,480
-"46","La Rioja","Moderna Monovalente XBB 1 5",101,89,21,0,1198
+"46","La Rioja","Moderna Monovalente XBB 1 5",101,89,21,0,1190
 "46","La Rioja","Pfizer BioNTech Comirnaty",0,30349,35376,10361,105017
 "46","La Rioja","Pfizer Bivariante BA 4 5",0,1,4,0,18936
 "46","La Rioja","Pfizer Monovalente XBB 1 5",334,3,5,0,5573
@@ -213,7 +213,7 @@
 "58","Neuquén","Cansino Ad5 nCoV",10690,0,2499,1,59186
 "58","Neuquén","Moderna 010 mg mL",0,1873,1054,0,7331
 "58","Neuquén","Moderna ARNm 020 mg mL",0,14541,45858,65,147207
-"58","Neuquén","Moderna Bivariante BA 4 5",403,231,248,0,13745
+"58","Neuquén","Moderna Bivariante BA 4 5",403,231,248,0,13744
 "58","Neuquén","Moderna Monovalente JN1",63,6,7,0,845
 "58","Neuquén","Moderna Monovalente XBB 1 5",191,19,41,0,3035
 "58","Neuquén","Pfizer BioNTech Comirnaty",0,51208,48057,3302,147186
@@ -243,7 +243,7 @@
 "66","Salta","Moderna 010 mg mL",0,5944,2506,0,24410
 "66","Salta","Moderna ARNm 020 mg mL",0,36800,100618,4504,307484
 "66","Salta","Moderna Bivariante BA 4 5",2837,845,561,0,76737
-"66","Salta","Moderna Monovalente JN1",119,15,31,0,1776
+"66","Salta","Moderna Monovalente JN1",119,15,31,0,1744
 "66","Salta","Moderna Monovalente XBB 1 5",319,156,52,0,5533
 "66","Salta","Pfizer BioNTech Comirnaty",0,105193,111720,17422,294814
 "66","Salta","Pfizer Bivariante BA 4 5",0,13,44,0,77090
